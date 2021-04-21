@@ -14,6 +14,10 @@
 # 2. Run the file
   # ruby ints_and_floats_exercise.rb
 
+# You can use the method "puts" to output the result to the console
+# puts sum
+# puts 1 + 2
+
 # Exercise 1:
 # Add the necessary code to add the necessary numbers to sum 342
 
